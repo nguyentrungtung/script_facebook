@@ -1,1 +1,3 @@
 CacheStorageVersio about facebook (key word)
+
+for(::) break string to array have fucntion and info
